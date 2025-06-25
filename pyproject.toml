@@ -1,0 +1,59 @@
+[project]
+name = "Autonomous-Product-Catalog-Cleaner"
+version = "0.1.0"
+description = "A project using LLMs, FastAPI, Streamlit, and LangGraph"
+authors = [
+    { name = "Samanwaya Ghosh", email = "samanwayaghosh938@gmail.com" }
+]
+license = "MIT"
+readme = "README.md"
+requires-python = ">=3.11"
+
+dependencies = [
+    # Core LLM + Agentic Framework
+    "langgraph",
+    "langchain",
+    "langchain-community",
+    "langchain-openai",
+    "langchain-groq",
+    # Vector DB
+    "faiss-cpu",
+    # Optional alternative:
+    # "chromadb>=0.4.24",
+    # API Framework
+    "fastapi",
+    "uvicorn[standard]",
+    # Frontend UI
+    "streamlit",
+    # Data validation & structures
+    "pydantic",
+    # PDF/CSV/JSON Parsing (optional enhancements)
+    "pandas",
+    # Tooling & Logging
+    "python-dotenv",
+    "loguru",
+    # LLM Testing and Tracing
+    "langsmith",
+    # Utilities
+    "tqdm",
+    "typing-extensions",
+    "pytest>=8.4.1",
+    "httpx>=0.28.1",
+    "setuptools>=80.9.0",
+    "sqlmodel>=0.0.24",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "httpx",
+    "setuptools"
+]
+
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+
+[tool.setuptools.packages.find]
+where = ["."]

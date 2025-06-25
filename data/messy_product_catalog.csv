@@ -1,0 +1,51 @@
+product_id,name,description,price,category,brand,material,color,size
+P001,Under Armour slippers - Blue color,"Brand new slippers for sports and casual use. Size: 7, Color: Blue. Material: Canvas.",4995,Slippers,Under Armour,,Blue,
+P002,Bata formal shoes - Black color,"Brand new formal shoes for sports and casual use. Size: 9, Color: Black. Material: Mesh.",4919,,,Mesh,Black,9
+P003,Nike formal shoes - Black color,"Brand new formal shoes for sports and casual use. Size: 7, Color: Black. Material: Canvas.",4875,Formal Shoes,nike,Canvas,Black,7
+P004,Adidas formal shoes - Red color,"Brand new formal shoes for sports and casual use. Size: 6, Color: Red. Material: Mesh.",4838,,Adidas,Mesh,Red,6
+P005,Adidas sneakers - Black color,"Brand new sneakers for sports and casual use. Size: 7, Color: Black. Material: Leather.",4828,,adidas,Leather,Black,7
+P006,Nike formal shoes - Red color,"Brand new formal shoes for sports and casual use. Size: 8, Color: Red. Material: Mesh.",4723,Formal Shoes,,Mesh,,8
+P007,Adidas sneakers - Black color,"Brand new sneakers for sports and casual use. Size: 8, Color: Black. Material: Synthetic.",4547,,,Synthetic,,
+P008,Puma running shoes - White color,"Brand new running shoes for sports and casual use. Size: 11, Color: White. Material: Rubber.",4442,Running Shoes,Puma,Rubber,White,11
+P009,Nike running shoes - Blue color,"Brand new running shoes for sports and casual use. Size: 10, Color: Blue. Material: Canvas.",4434,Running Shoes,,,,10
+P010,Adidas running shoes - Red color,"Brand new running shoes for sports and casual use. Size: 10, Color: Red. Material: Rubber.",4427,,Adidas,Rubber,Red,10
+P011,Under Armour sneakers - Red color,"Brand new sneakers for sports and casual use. Size: 10, Color: Red. Material: Canvas.",4301,,Under Armour,Canvas,Red,10
+P012,Nike slippers - Blue color,"Brand new slippers for sports and casual use. Size: 9, Color: Blue. Material: Rubber.",4162,Slippers,Nike,,,
+P013,Under Armour slippers - Red color,"Brand new slippers for sports and casual use. Size: 6, Color: Red. Material: Mesh.",4079,,,,,
+P014,Reebok sneakers - Blue color,"Brand new sneakers for sports and casual use. Size: 6, Color: Blue. Material: Leather.",4076,Sneakers,Reebok,,Blue,
+P015,Under Armour formal shoes - Black color,"Brand new formal shoes for sports and casual use. Size: 6, Color: Black. Material: Synthetic.",3975,,Under Armour,Synthetic,Black,6
+P016,Reebok running shoes - Blue color,"Brand new running shoes for sports and casual use. Size: 11, Color: Blue. Material: Mesh.",3945,,Reebok,Mesh,Blue,11
+P017,Reebok formal shoes - Grey color,"Brand new formal shoes for sports and casual use. Size: 8, Color: Grey. Material: Mesh.",3917,,Reebok,,Grey,
+P018,Bata formal shoes - Black color,"Brand new formal shoes for sports and casual use. Size: 7, Color: Black. Material: Leather.",3842,,,Leather,Black,
+P019,Under Armour slippers - Black color,"Brand new slippers for sports and casual use. Size: 7, Color: Black. Material: Canvas.",3835,,Under Armour,,Black,
+P020,Adidas slippers - Green color,"Brand new slippers for sports and casual use. Size: 8, Color: Green. Material: Rubber.",3744,Slippers,,Rubber,Green,8
+P021,Puma sandals - Grey color,"Brand new sandals for sports and casual use. Size: 7, Color: Grey. Material: Synthetic.",3741,Sandals,Puma,Synthetic,Grey,7
+P022,Adidas sneakers - Red color,"Brand new sneakers for sports and casual use. Size: 11, Color: Red. Material: Mesh.",3570,Sneakers,Adidas,,Red,
+P023,Reebok formal shoes - Grey color,"Brand new formal shoes for sports and casual use. Size: 9, Color: Grey. Material: Leather.",3560,Formal Shoes,Reebok,,Grey,
+P024,Adidas running shoes - Black color,"Brand new running shoes for sports and casual use. Size: 9, Color: Black. Material: Synthetic.",3528,Running Shoes,,Synthetic,Black,
+P025,Puma running shoes - Green color,"Brand new running shoes for sports and casual use. Size: 7, Color: Green. Material: Rubber.",3362,,Puma,Rubber,,7
+P026,Under Armour slippers - Grey color,"Brand new slippers for sports and casual use. Size: 11, Color: Grey. Material: Mesh.",3233,Slippers,Under Armour,Mesh,Grey,11
+P027,Bata slippers - Red color,"Brand new slippers for sports and casual use. Size: 8, Color: Red. Material: Mesh.",3116,Slippers,Bata,Mesh,,
+P028,Nike sneakers - Blue color,"Brand new sneakers for sports and casual use. Size: 10, Color: Blue. Material: Canvas.",3008,Sneakers,Nike,Canvas,Blue,
+P029,Reebok sandals - White color,"Brand new sandals for sports and casual use. Size: 7, Color: White. Material: Leather.",2983,Sandals,Reebok,Leather,,7
+P030,Nike running shoes - Green color,"Brand new running shoes for sports and casual use. Size: 6, Color: Green. Material: Canvas.",2981,,,Canvas,Green,6
+P031,Nike sneakers - Grey color,"Brand new sneakers for sports and casual use. Size: 6, Color: Grey. Material: Mesh.",2914,,Nike,Mesh,Grey,6
+P032,Bata slippers - White color,"Brand new slippers for sports and casual use. Size: 9, Color: White. Material: Canvas.",2853,Slippers,Bata,Canvas,,
+P033,Reebok formal shoes - Green color,"Brand new formal shoes for sports and casual use. Size: 10, Color: Green. Material: Leather.",2727,Formal Shoes,Reebok,Leather,,10
+P034,Adidas formal shoes - Black color,"Brand new formal shoes for sports and casual use. Size: 11, Color: Black. Material: Mesh.",2476,Formal Shoes,Adidas,,,11
+P035,Puma formal shoes - Grey color,"Brand new formal shoes for sports and casual use. Size: 9, Color: Grey. Material: Rubber.",2440,Formal Shoes,Puma,,Grey,9
+P036,Puma running shoes - Red color,"Brand new running shoes for sports and casual use. Size: 8, Color: Red. Material: Synthetic.",2431,Running Shoes,,,,
+P037,Adidas sneakers - Blue color,"Brand new sneakers for sports and casual use. Size: 8, Color: Blue. Material: Mesh.",2428,Sneakers,,Mesh,Blue,8
+P038,Under Armour slippers - Grey color,"Brand new slippers for sports and casual use. Size: 9, Color: Grey. Material: Rubber.",2406,Slippers,Under Armour,Rubber,,
+P039,Under Armour running shoes - Grey color,"Brand new running shoes for sports and casual use. Size: 9, Color: Grey. Material: Synthetic.",2225,Running Shoes,,Synthetic,Grey,
+P040,Reebok sandals - White color,"Brand new sandals for sports and casual use. Size: 7, Color: White. Material: Leather.",2221,,Reebok,Leather,,7
+P041,Nike sneakers - Green color,"Brand new sneakers for sports and casual use. Size: 6, Color: Green. Material: Leather.",2107,Sneakers,Nike,,Green,6
+P042,Under Armour sandals - Red color,"Brand new sandals for sports and casual use. Size: 8, Color: Red. Material: Synthetic.",2055,Sandals,Under Armour,Synthetic,,
+P043,Bata formal shoes - White color,"Brand new formal shoes for sports and casual use. Size: 11, Color: White. Material: Synthetic.",1779,,,Synthetic,,
+P044,Under Armour running shoes - Black color,"Brand new running shoes for sports and casual use. Size: 9, Color: Black. Material: Rubber.",1761,Running Shoes,Under Armour,,,9
+P045,Nike formal shoes - Blue color,"Brand new formal shoes for sports and casual use. Size: 11, Color: Blue. Material: Canvas.",1592,,Nike,,Blue,11
+P046,Under Armour formal shoes - Green color,"Brand new formal shoes for sports and casual use. Size: 9, Color: Green. Material: Synthetic.",1469,,Under Armour,Synthetic,Green,
+P047,Puma running shoes - Black color,"Brand new running shoes for sports and casual use. Size: 10, Color: Black. Material: Synthetic.",1454,,Puma,Synthetic,,
+P048,Reebok formal shoes - Grey color,"Brand new formal shoes for sports and casual use. Size: 8, Color: Grey. Material: Leather.",1121,Formal Shoes,Reebok,,Grey,
+P049,Nike sneakers - Red color,"Brand new sneakers for sports and casual use. Size: 11, Color: Red. Material: Canvas.",1078,Sneakers,Nike,Canvas,Red,11
+P050,Under Armour formal shoes - Green color,"Brand new formal shoes for sports and casual use. Size: 8, Color: Green. Material: Canvas.",1075,Formal Shoes,Under Armour,Canvas,Green,

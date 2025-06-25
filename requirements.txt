@@ -1,0 +1,44 @@
+# Core LLM + Agentic Framework
+langgraph
+langchain
+langchain-community
+langchain-openai
+langchain-groq
+# Vector DB (for optional duplicate detection)
+faiss-cpu
+# OR use ChromaDB if you prefer
+# chromadb>=0.4.24
+
+# API Framework
+fastapi
+uvicorn[standard]
+
+# Frontend UI
+streamlit
+
+# Data validation & structures
+pydantic
+
+# PDF/CSV/JSON Parsing (optional enhancements)
+pandas
+
+# Tooling & Logging
+python-dotenv
+loguru
+
+# LLM Testing and Tracing
+langsmith
+
+# Utilities
+tqdm
+typing-extensions
+
+# Dev & Testing
+pytest
+httpx
+
+setuptools
+
+# Database
+sqlmodel
+
